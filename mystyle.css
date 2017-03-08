@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    text-shadow: 3px 2px red;
+}
+h1 {
+    text-shadow: 3px 2px red;
+    text-align: center;
+}
+#dagg {text-align: center;}
+#dag {border-radius: 50%;
+font-size: 24px;
+background-color: gray;
+width: 50%;
+}
